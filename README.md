@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurentHauKai
+- 👋 Hi, I’m Laurent
 - 👀 I’m interested in applied mathematics with a specification on machine learning and artificial intelligence.
 - 🌱 I’m currently learning LLM algorithms.
 - 💞️ I’m looking to collaborate on this subject.
